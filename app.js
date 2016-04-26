@@ -1,4 +1,4 @@
-//103306031
+//103306031 init
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
